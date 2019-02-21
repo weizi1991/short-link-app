@@ -1,3 +1,3 @@
-Short Lnk
+##Short Link
 
-This is a short Lnk application, based on the meteor react framework.
+This is a Link shortener application, based on the meteor react framework.
