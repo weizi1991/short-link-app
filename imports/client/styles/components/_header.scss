@@ -1,0 +1,14 @@
+.header {
+    background: $header-bg;
+    color: white;
+}
+.header__content {
+    display: flex;
+    max-width: $site-max-width;
+    justify-content: space-between;
+    margin: 0 auto;
+    padding: $space;
+}
+.header__title {
+    
+}
