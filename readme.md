@@ -1,4 +1,4 @@
-#Short Lnk App
+# Short Lnk App
 
 This is a Link shortener application. The app is built with React.js for the front-end and meteor for the back-end. 
 The back-end can interface with a remote mongoDB database on meteor.
